@@ -12,25 +12,20 @@
 
 ---
 
-### About me
-
-Third-year BSc student in Communication Systems at **EPFL**, heading towards a Master's in AI and machine learning. I like turning messy real-world data into tools people can trust: clean pipelines, tested code, and models that are honest about what they don't know.
-
-### 🚀 What I'm working on
-
-- 🧪 **Research Intern, RISC Foundation**: modelling claim overlaps for a multi-trigger insurance framework for entrepreneurs
-- 💳 **Co-founder & developer, Redeo**: loyalty cards straight into Apple Wallet and Google Wallet (TypeScript, Node.js, Docker)
-- 📈 **Incoming Data Science & ML Intern, SAFTCO (OCP Group)**: forecasting fertilizer prices and building an LLM-based market-commentary tool, from December 2026
-- 🏆 **Head of Hackathons, EPFL-UNIL Entrepreneur Club**: co-organized *Ignition: AI Hackathon* and leading the *InCube Challenge*
-
-### 🔭 Featured projects
-
-**[vigie-options](https://github.com/Amine-Senhadji/vigie-options)**: three Claude Code agents that flag unusual options activity on a watchlist every day, without ever recommending a trade. Deterministic Python computations kept separate from the AI layer, contract-level open-interest tracking with data-quality checks, and CI on Python 3.10 to 3.12.
-[![tests](https://github.com/Amine-Senhadji/vigie-options/actions/workflows/tests.yml/badge.svg)](https://github.com/Amine-Senhadji/vigie-options/actions/workflows/tests.yml)
-
-**ReCHor** (EPFL project): an offline public-transport planner for Switzerland that finds Pareto-optimal routes across departure time, arrival time and transfers, with a GUI, map visualisation and iCalendar export.
-
-**Machine learning from first principles**: an MLP and K-means implemented from scratch in NumPy, with no ML framework.
+README
+Amine Senhadji
+Third-year Communication Systems student at EPFL. Mostly interested in machine learning and probabilistic models, and in what happens when you apply them to real, messy data.
+Right now
+Research intern at the RISC Foundation, on a multi-trigger insurance product for entrepreneurs. I model where business-continuity and disability claims overlap, so the shared pool doesn't pay twice.
+Building Redeo with a co-founder: loyalty cards that live in Apple Wallet and Google Wallet, no app needed. I write the backend (TypeScript, Node.js, Docker).
+Starting a data science and ML internship at SAFTCO (OCP Group) in December, on fertilizer price forecasting.
+Running hackathons for the EPFL-UNIL Entrepreneur Club.
+Projects
+vigie-options: a daily scan of unusual options activity on a watchlist, run by three Claude Code agents. All the numbers come from plain, tested Python; the agents only describe them and never suggest a trade.
+ReCHor: an offline public-transport planner for Switzerland (EPFL course project). Finds Pareto-optimal journeys over departure time, arrival time and number of changes.
+An MLP and k-means written from scratch in NumPy, to understand what the libraries actually do.
+Tools I use most: Python, NumPy, pandas, TypeScript, Node.js, Java, Scala, C++, Docker, Git.
+Contact: LinkedIn · amine.senhadji88@gmail.com
 
 ### 🛠️ Tech stack
 
