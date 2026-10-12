@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Amine 👋</h1>
+<h1 align="center">Hi, I'm Amine </h1>
 
 <p align="center">
   <b>Communication Systems student at EPFL</b> · machine learning · probabilistic modelling · AI agents
